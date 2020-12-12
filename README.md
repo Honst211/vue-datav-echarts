@@ -125,12 +125,12 @@ data() {
   return {
     rate: [
       {
-        id: "centerRate1",
+        id: "数据T1",
         tips: 60,
         ...
       },
       {
-        id: "centerRate2",
+        id: "数据T2",
         tips: 40,
         colorData: {
           ...
