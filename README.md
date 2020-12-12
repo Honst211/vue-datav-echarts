@@ -112,14 +112,14 @@ export default {
 
 ```js
 //组件调用
-<span>今日任务通过率</span>
+<span>全球数据使用率1</span>
 <centerChart :id="rate[0].id" :tips="rate[0].tips" :colorObj="rate[0].colorData" />
 
-<span>今日任务达标率</span>
+<span>全球数据使用率2</span>
 <centerChart :id="rate[1].id" :tips="rate[1].tips" :colorObj="rate[1].colorData" />
 
 ...
-import centerChart from "@/components/echart/center/centerChartRate";
+import BottomChart from "@/components/echart/bottom/bottomLeftChart";
 
 data() {
   return {
