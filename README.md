@@ -17,7 +17,9 @@
 
 2. [DataV 官方文档](http://datav.jiaminghi.com/guide/)
 
-3. [echarts 实例](https://echarts.apache.org/examples/zh/index.html)，[echarts API 文档
+3. [echarts 实例](https://echarts.apache.org/examples/zh/index.html)，[echarts API 文档](https://echarts.apache.org/zh/api.html#echarts)
+
+4. [本项目gitpage地址](https://honst211.github.io/vue-datav-echarts/)
 
    
 
